@@ -42,7 +42,7 @@ In VMware Workstation Pro, a new virtual machine was created using the
 Select the "I will install the operating system later" option as you 
 will be able to do this at a later time.
 
-![ISO Selection](../screenshots/server-vm-creation/New Virtual Machine Step 2.png)
+![ISO Selection](../screenshots/server-vm-creation/New-Virtual-Machine-Step-2.png)
 
 ---
 
@@ -51,7 +51,7 @@ will be able to do this at a later time.
 Select Microsoft Windows and then select the version in the drop-down. 
 You can see there are a lot of versions you can select from. 
 
-![Guest OS](../screenshots/server-vm-creation/New Virtual Machine Step 3.png)
+![Guest OS](../screenshots/server-vm-creation/New-Virtual-Machine-Step-3.png)
 
 ---
 
@@ -60,7 +60,7 @@ You can see there are a lot of versions you can select from.
 I chose to keep it simple and just named the version of the OS. 
 If you like, you can also select where you want to save it. For myself, I kept it the default.
 
-![VM Name](../screenshots/server-vm-creation/New Virtual Machine Step 4.png)
+![VM Name](../screenshots/server-vm-creation/New-Virtual-Machine-Step-4.png)
 
 ---
 
@@ -69,7 +69,7 @@ If you like, you can also select where you want to save it. For myself, I kept i
 This option depends entirely on your physical storage. 
 Since I am just doing basic things with this server, I decided to keep it at the recommended 60GB. 
 
-![Storage Space Selection](../screenshots/server-vm-creation/New Virtual Machine Step 5.png)
+![Storage Space Selection](../screenshots/server-vm-creation/New-Virtual-Machine-Step-5.png)
 
 ---
 
@@ -78,7 +78,7 @@ Since I am just doing basic things with this server, I decided to keep it at the
 Here you can verify your selections, even customize Hardware settings. 
 But I usually do that after I select Finish since I still need to mount the ISO for the OS install.
 
-![Almost there](../screenshots/server-vm-creation/New Virtual Machine Step 6.png)
+![Almost there](../screenshots/server-vm-creation/New-Virtual-Machine-Step-6.png)
 
 ---
 
@@ -87,29 +87,29 @@ But I usually do that after I select Finish since I still need to mount the ISO 
 You can either Generate a password or create your own. 
 Just make sure to note it somewhere safe just in case!
 
-![TPM Gottem](../screenshots/server-vm-creation/New Virtual Machine Step 7.png)
+![TPM Gottem](../screenshots/server-vm-creation/New-Virtual-Machine-Step-7.png)
 
 ---
 ## Step 8: Time to make some hardware changes and mount the ISO
 
 Select the "Edit virtual machince settings"
 
-![Select Hardware](../screenshots/server-vm-creation/New Virtual Machine Step 8.png)
+![Select Hardware](../screenshots/server-vm-creation/New-Virtual-Machine-Step-8.png)
 
 and in the new window start with Memory, go ahead and increas this if you can. 
 This can be the difference on how your machine runs. 
 After that adjust the processors as well, if you can. Click OK to save the changes.
 
-![Select Hardware](../screenshots/server-vm-creation/New Virtual Machine Step 9.png)
+![Select Hardware](../screenshots/server-vm-creation/New-Virtual-Machine-Step-9.png)
 
 Oops, you will have to get back into the virtual machine settings.
 Now click on CD/DVD (SATA) and then selec the Use ISO image file and Browse to where you have your ISO file saved.
 
-![Select ISO](../screenshots/server-vm-creation/New Virtual Machine Step 10.png)
+![Select ISO](../screenshots/server-vm-creation/New-Virtual-Machine-Step-10.png)
 
 Mine is in the Downloads directory. Once Selected click Open 
 
-![Select ISO](../screenshots/server-vm-creation/New Virtual Machine Step 12.png)
+![Select ISO](../screenshots/server-vm-creation/New-Virtual-Machine-Step-12.png)
 
 ---
 
@@ -119,7 +119,7 @@ For this final step I recoreded my screen, make sure to pay attention to the ver
 There was a certain setting that I was not aware of that blocked me from starting the installation.
 Good Luck!
 
-![Install Server](../screenshots/server-vm-creation/ServerVM Installation important.mp4)
+![Install Server](../screenshots/server-vm-creation/ServerVM-Installation-important.mp4)
 
 ---
 
