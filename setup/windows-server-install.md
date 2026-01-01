@@ -33,7 +33,7 @@ Domain Controller for the Active Directory home lab.
 In VMware Workstation Pro, a new virtual machine was created using the
 **Typical (recommended)** configuration option.
 
-![VM Creation Wizard](../screenshots/server-vm-creation/New Virtual Machine Step 1.png)
+![VM Creation Wizard](../screenshots/server-vm-creation/New-Virtual-Machine-Step-1.png)
 
 ---
 
